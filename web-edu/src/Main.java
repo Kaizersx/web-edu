@@ -6,5 +6,6 @@ public class Main {
 
         System.out.println("Add Vahag edition");
         System.out.println("Add Vahag 2 edition");
+        System.out.println("Add Vahag 3 edition");
     }
 }
