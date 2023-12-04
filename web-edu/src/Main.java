@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Bye world!");
 
         System.out.println("Add Vahag edition");
+        System.out.println("Add Vahag 2 edition");
     }
 }
